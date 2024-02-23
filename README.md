@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Pokemon Bot](https://pokemonbot.com)
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **React.js, Next.js, Tailwind CSS**
 
