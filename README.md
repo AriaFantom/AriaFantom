@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Priyanshu Debnath from India<br><br>- 🔭 I’m passionate on Full Stack Developing<br>- 📚 I'm currently learning Go Lang/Java<br>- ⚡</p>
+<p align="left">I'm Priyanshu Debnath from India<br><br>- 🔭 I’m passionate on Full Stack Developing<br>- 📚 I'm currently learning Go Lang/Java<br></p>
 
 ###
 
