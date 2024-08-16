@@ -58,4 +58,5 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/557112105275228161)](https://discord.com/users/557112105275228161)
 ###
