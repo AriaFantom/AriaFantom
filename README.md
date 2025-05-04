@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Backend stuff**
 
-- 👨‍💻 All of my projects are available at [https://devaskar.online](https://devaskar.online)
+- 👨‍💻 All of my projects are available at [Click Here](https://priyanshu.firedevs.in/)
 
 - 💬 Ask me about **Nextjs, Postgres, Express, MongoDB**
 
